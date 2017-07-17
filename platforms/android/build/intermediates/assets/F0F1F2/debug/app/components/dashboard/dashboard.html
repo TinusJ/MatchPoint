@@ -1,0 +1,31 @@
+
+<ActionBar title="{{tabTitle}}" class="action-bar">
+    <ActionItem  (tap)="oops('Profile')" >
+          <Label text="&#xf007;" cssClass="fa icon-size" ></Label>
+    </ActionItem>
+    <ActionItem  (tap)="oops('Notifications')" >
+         <Label text="&#xf0f3;" cssClass="fa icon-size" ></Label>
+    </ActionItem>
+    <ActionItem (tap)="oops('Settings')" >
+         <Label text="&#xf0ad;" cssClass="fa icon-size" ></Label>
+    </ActionItem>
+</ActionBar>
+<TabView class="fa"  [(ngModel)]="tabSelectedIndex" selectedColor="#FF0000" (loaded)="onTabViewLoaded($event)">
+    <StackLayout *tabItem="{title: '\uf0e7'}"   >
+  
+    </StackLayout>
+    <StackLayout *tabItem="{title: '\uf015',color:'red'}">
+              <GridLayout  >
+           
+                <FAB:fab  (tap)="oops('Faby Fab fab fab fab')"
+                            row="1"
+                            text="&#xf007;"
+                            rippleColor="#fff"
+                            class="fab-button fa"></FAB:fab>
+         </GridLayout>
+    </StackLayout>
+     <StackLayout *tabItem="{title: '\uf0c0'}" >
+         
+    </StackLayout>
+
+</TabView>

@@ -118,7 +118,7 @@ export class AuthService{
         );
     }
 
-  /*  public facebookLogin():boolean{
+   public facebookLogin():boolean{
         
         firebase.login({
                 type: firebase.LoginType.FACEBOOK,
@@ -134,7 +134,7 @@ export class AuthService{
             );
 
             return false;
-    }*/
+    }
 
     public googleLogin():boolean{
     

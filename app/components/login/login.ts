@@ -29,7 +29,6 @@ export class LoginComponent implements OnInit {
 
     ngOnInit(): void {
 
-       
     }
 
     public loginNormal(){
@@ -37,12 +36,15 @@ export class LoginComponent implements OnInit {
     }
 
     public loginFacebook(){
-        alert('Not Implemented');
+        if( this._auth.facebookLogin()){
+            this.loginSuccess();
+         }
     }
 
      public loginGoogle(){
-         this._auth.googleLogin();
-        // this.loginSuccess();
+         if( this._auth.googleLogin()){
+            this.loginSuccess();
+         }
     }
 
     public loginTwitter(){

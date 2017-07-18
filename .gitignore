@@ -57,5 +57,12 @@ typings/
 # dotenv environment variables file
 .env
 
+# Firebase issues with commiting long class files
 *.class
+
+# Visual studio code contact
+.vscode/
+
+#Platform run 
+platforms/android/
 

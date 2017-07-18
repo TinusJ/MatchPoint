@@ -42,13 +42,12 @@ export class LoginComponent implements OnInit {
     }
 
      public loginGoogle(){
-         if( this._auth.googleLogin()){
-            this.loginSuccess();
-         }
+        this._auth.googleLogin();
+        this.loginSuccess();
     }
 
     public loginTwitter(){
-      alert('Not Implemented');
+      this._auth.phoneVerification("+27817435874");
     }
 
    

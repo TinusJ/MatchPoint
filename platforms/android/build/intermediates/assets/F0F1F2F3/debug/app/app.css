@@ -1,0 +1,35 @@
+@import 'nativescript-theme-core/css/ruby.css';
+
+
+.fa{
+    font-family: FontAwesome;
+}
+.icon-size{
+    font-size: 18;
+    padding: 10;
+}
+
+.cardStyle {
+    background-color: #3489db;
+    color: #fff;
+}
+
+.ruby{
+    color:#ff1744;
+}
+
+.fab-button {
+    height: 50;
+    margin: 15;
+    background-color: #ff1744; 
+    horizontal-align: right; 
+    vertical-align: bottom; 
+}
+
+.odd {
+    background-color: red;
+}
+
+.even {
+    background-color: blue;
+}

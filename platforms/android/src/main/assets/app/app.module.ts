@@ -9,11 +9,24 @@ import { AppComponent } from "./app.component";
 
 import { DashboardComponent } from './components/dashboard/dashboard';
 import { LoginComponent } from './components/login/login';
+import {AuthService} from './providers/auth.service';
 
 import * as elementRegistryModule from 'nativescript-angular/element-registry';
 elementRegistryModule.registerElement("CardView", () => require("nativescript-cardview").CardView);
 elementRegistryModule.registerElement("Fab", () => require("nativescript-floatingactionbutton").Fab);
 
+import firebase = require("nativescript-plugin-firebase");
+
+firebase.init({
+
+}).then(
+  (instance) => {
+    console.log("firebase.init done");
+  },
+  (error) => {
+    console.log("firebase.init error: " + error);
+  }
+);
 
 @NgModule({
     bootstrap: [
@@ -32,7 +45,7 @@ elementRegistryModule.registerElement("Fab", () => require("nativescript-floatin
         
     ],
     providers: [
-       // ItemService
+       AuthService
     ],
     schemas: [
         NO_ERRORS_SCHEMA

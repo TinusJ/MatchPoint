@@ -1,0 +1,25 @@
+
+<ActionBar title="Login" class="action-bar"></ActionBar>
+<StackLayout class="form">
+
+    <StackLayout class="input-field">
+        <Label class="label" text="Username"></Label>
+        <TextField  [(ngModel)]="username"></TextField>
+    </StackLayout>
+
+    <StackLayout class="input-field">
+        <Label class="label" text="Password"></Label>
+        <TextField  type="password" [(ngModel)]="password"></TextField>
+    </StackLayout>
+
+    <StackLayout class="hr-dark"></StackLayout>
+
+   <Button text="Email Login" (tap)="loginNormal()"></Button>
+
+   <Button text="Facebook Login" (tap)="loginFacebook()"></Button>
+
+   <Button text="Twitter Login" (tap)="loginTwitter()"></Button>
+
+   <Button text="Google Login" (tap)="loginGoogle()"></Button>
+
+</StackLayout>

@@ -4,6 +4,7 @@ C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\src\main\asset
 C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\src\main\assets\app\main.js
 C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\src\main\assets\app\components\dashboard\dashboard.js
 C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\src\main\assets\app\components\login\login.js
+C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\src\main\assets\app\providers\auth.service.js
 C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\src\main\assets\app\tns_modules\nativescript-angular\animations.js
 C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\src\main\assets\app\tns_modules\nativescript-angular\collection-facade.js
 C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\src\main\assets\app\tns_modules\nativescript-angular\directives.js
@@ -66,6 +67,16 @@ C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\src\main\asset
 C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\src\main\assets\app\tns_modules\nativescript-intl\index.js
 C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\src\main\assets\app\tns_modules\nativescript-intl\nativescript-intl-common.js
 C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\src\main\assets\app\tns_modules\nativescript-intl\nativescript-intl.js
+C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\src\main\assets\app\tns_modules\nativescript-plugin-firebase\firebase-common.js
+C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\src\main\assets\app\tns_modules\nativescript-plugin-firebase\firebase.js
+C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\src\main\assets\app\tns_modules\nativescript-plugin-firebase\postinstall-hooks.js
+C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\src\main\assets\app\tns_modules\nativescript-plugin-firebase\preuninstall-hooks.js
+C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\src\main\assets\app\tns_modules\nativescript-plugin-firebase\scripts\entitlements-after-prepare.js
+C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\src\main\assets\app\tns_modules\nativescript-plugin-firebase\scripts\entitlements-before-prepare.js
+C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\src\main\assets\app\tns_modules\nativescript-plugin-firebase\scripts\installer.js
+C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\src\main\assets\app\tns_modules\nativescript-plugin-firebase\scripts\postinstall.js
+C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\src\main\assets\app\tns_modules\nativescript-plugin-firebase\scripts\webpack.config.js
+C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\src\main\assets\app\tns_modules\nativescript-plugin-firebase\scripts\winston-mock.js
 C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\src\main\assets\app\tns_modules\tns-core-modules\bundle-entry-points.js
 C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\src\main\assets\app\tns_modules\tns-core-modules\application\application-common.js
 C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\src\main\assets\app\tns_modules\tns-core-modules\application\application.js

@@ -1,4 +1,4 @@
 
 android {
-    flavorDimensions "nativescriptcardview", "nativescriptfloatingactionbutton", "tnscoremoduleswidgets"
+    flavorDimensions "nativescriptcardview", "nativescriptfloatingactionbutton", "nativescriptpluginfirebase", "tnscoremoduleswidgets"
 }

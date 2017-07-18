@@ -3,21 +3,12 @@
 
     <item
         is-multidex="false"
-        jar="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.3.1\jars\classes.jar"
+        jar="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\11.0.2\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
-        <dex dex="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.android.support-cardview-v7-25.3.1_128fdcd0846b97caebe7033ba3347c94458e2331.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
-        <dex dex="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.android.support-appcompat-v7-25.3.1_9c5af61cd9e23abc8f8eaeaa7a55e9bb32c161e1.jar" />
+        sha1="3560fc891bbecd8982acbace15ccead59c3fedd1">
+        <dex dex="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.google.android.gms-play-services-auth-11.0.2_141ddc213173103810a18fadc7886f3f4f14db13.jar" />
     </item>
     <item
         is-multidex="false"
@@ -26,16 +17,25 @@
         optimize="true"
         revision="25.0.3"
         sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
-        <dex dex="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.android.support-support-compat-25.3.1_f4eec9e6223d355a07c4be493ae978f0edf96882.jar" />
+        <dex dex="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.android.support-support-compat-25.3.1_f4eec9e6223d355a07c4be493ae978f0edf96882.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jar="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-dynamic-links\11.0.2\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
-        <dex dex="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.android.support-design-25.3.1_355bcc281383f27fc970f6209748412604cb2796.jar" />
+        sha1="1fd6dc27f1ebe5bdbf26aa54773d11327f91532b">
+        <dex dex="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.google.firebase-firebase-dynamic-links-11.0.2_ed68c336f31c695c7ae64f474c4340c4a0cfd7b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2737331564e0084fc0eb30ba500564a6dbe5e98f">
+        <dex dex="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.google.firebase-firebase-iid-11.0.2_2045d1840c6cc65bda7febbc234dc1d28e5d3aed.jar" />
     </item>
     <item
         is-multidex="false"
@@ -44,7 +44,25 @@
         optimize="true"
         revision="25.0.3"
         sha1="ed69cd5603304a6fc9a36a94c8be977a1d0e4857">
-        <dex dex="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\intermediates-exploded-aar-widgets-release_fd7a395e2b14c843aa73a67eae0a11e29411cd96.jar" />
+        <dex dex="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\intermediates-exploded-aar-widgets-release_fd7a395e2b14c843aa73a67eae0a11e29411cd96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a71be5f29a1c1e3fd3e84472742668f101a5b936">
+        <dex dex="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.google.android.gms-play-services-basement-11.0.2_12c215bbeb367597fa3f2eff5caaefb475d40f03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tinus\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.1\2a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0\gson-2.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="02a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0">
+        <dex dex="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\gson-2.8.1_564fec46f15892203eeb56f5c1ac490271daca07.jar" />
     </item>
     <item
         is-multidex="false"
@@ -53,7 +71,16 @@
         optimize="true"
         revision="25.0.3"
         sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
-        <dex dex="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.android.support-support-core-utils-25.3.1_161bdd7e55efc23c97ab0cbef273bbf69991efd6.jar" />
+        <dex dex="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.android.support-support-core-utils-25.3.1_161bdd7e55efc23c97ab0cbef273bbf69991efd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9a6350134db98fb39e212ddca5f0bad9280e8f3f">
+        <dex dex="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.google.firebase-firebase-analytics-11.0.2_62277a077a9e364bee61ab60fe7be00504b54c8d.jar" />
     </item>
     <item
         is-multidex="false"
@@ -62,16 +89,7 @@
         optimize="true"
         revision="25.0.3"
         sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
-        <dex dex="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.android.support-support-media-compat-25.3.1_63d83e0985f8469f2d4e77bce9cde1ed607d9ac0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="95519720620b553f63afc789beba9ad582807f7c">
-        <dex dex="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.android.support-recyclerview-v7-25.3.1_3f13bef5bc63814de5991fbf1b33d4d1d6719869.jar" />
+        <dex dex="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.android.support-support-media-compat-25.3.1_63d83e0985f8469f2d4e77bce9cde1ed607d9ac0.jar" />
     </item>
     <item
         is-multidex="false"
@@ -79,8 +97,8 @@
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="30b97ea5d6274e02330dcc69943087778363c172">
-        <dex dex="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\MatchPoint-runtime-unspecified_d92215beccf619a4c5359130d19db9a3f0af5860.jar" />
+        sha1="4aca8bd36fa40862df610c153254c536da44143c">
+        <dex dex="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\MatchPoint-runtime-unspecified_d92215beccf619a4c5359130d19db9a3f0af5860.jar" />
     </item>
     <item
         is-multidex="false"
@@ -88,8 +106,17 @@
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="a3e74f5f1ebe12c7cfa6591158ef298c95a5275f">
-        <dex dex="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\binding-generator_b1039714adcda167d02b00fdf06f68bac7f90f0f.jar" />
+        sha1="bbf23f78c0e92e11a9805b9fb54bab3810ca30da">
+        <dex dex="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\binding-generator_b1039714adcda167d02b00fdf06f68bac7f90f0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\11.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4262bcd49b19d558c241bf8c68470fcc6fa1ac84">
+        <dex dex="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.google.firebase-firebase-database-connection-11.0.2_0ed01e2a9f1741fddaaab917288f66c892d8ffee.jar" />
     </item>
     <item
         is-multidex="false"
@@ -98,34 +125,7 @@
         optimize="true"
         revision="25.0.3"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.android.support-support-v4-25.3.1_bf6bd3479549b9adb3d0a954b861c83955fb1d8b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
-        <dex dex="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\support-annotations-25.3.1_07cc1bdab6386cc71ca9e51c0b2d242e9420314e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
-        <dex dex="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.android.support-animated-vector-drawable-25.3.1_6e6afec66902cdca4555ee0904aae4003501b3a8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
-        <dex dex="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.android.support-support-vector-drawable-25.3.1_eebc7448da11ed36e6e18eb00948fecf382ac0fb.jar" />
+        <dex dex="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.android.support-support-v4-25.3.1_bf6bd3479549b9adb3d0a954b861c83955fb1d8b.jar" />
     </item>
     <item
         is-multidex="false"
@@ -134,16 +134,34 @@
         optimize="true"
         revision="25.0.3"
         sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
-        <dex dex="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.android.support-support-fragment-25.3.1_847bbfde3375492cc2af96acb5c5080fe69f3c76.jar" />
+        <dex dex="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.android.support-support-fragment-25.3.1_847bbfde3375492cc2af96acb5c5080fe69f3c76.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jar="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\11.0.2\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
-        <dex dex="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.android.support-transition-25.3.1_c5104b45f2eabcf70a1ad664aec51445703ace35.jar" />
+        sha1="86e2c2399cfd7f8271b535b0e7d8ec092d0c6335">
+        <dex dex="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.google.firebase-firebase-storage-common-11.0.2_d1e10ed7c333bc9c9170a7551c051feb34d26330.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-database\11.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4802b21cc23549f7eba5edb802241091ad998b35">
+        <dex dex="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.google.firebase-firebase-database-11.0.2_67b3b52c7edee33bbd5f502522dafa1f753cf0ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2a2d9cd43adbe7599a78f2293273a77881c1909a">
+        <dex dex="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.google.android.gms-play-services-base-11.0.2_2c3c9c628f4bb7228a4839f922097f6408baa4bc.jar" />
     </item>
     <item
         is-multidex="false"
@@ -152,7 +170,196 @@
         optimize="true"
         revision="25.0.3"
         sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
-        <dex dex="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.android.support-support-core-ui-25.3.1_64f656f13f0bded279640b90438e7dd075ee1c0b.jar" />
+        <dex dex="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.android.support-support-core-ui-25.3.1_64f656f13f0bded279640b90438e7dd075ee1c0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-common\11.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fc5624185d414a0f572bfb3df7d841ceb335aef9">
+        <dex dex="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.google.firebase-firebase-common-11.0.2_3d19cb2d1eb3893fd6fafceb75febd828bed04cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.android.support-cardview-v7-25.3.1_128fdcd0846b97caebe7033ba3347c94458e2331.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\11.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a3d07dfddc7c3c7547fb953847589d586f1e2077">
+        <dex dex="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.google.android.gms-play-services-auth-base-11.0.2_2e3e4cacf220f81e4c83a3d666efa66a83415837.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="86baa7d1051901fc1b8e7f596732f71f32175bde">
+        <dex dex="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.google.android.gms-play-services-tasks-11.0.2_59a6553d22066d0e7a8a812661f45f70cb85f709.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.android.support-appcompat-v7-25.3.1_9c5af61cd9e23abc8f8eaeaa7a55e9bb32c161e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\exploded-aar\firebase-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c9516c20ad330d844b3275d9c3acb0b798b6d8ae">
+        <dex dex="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\intermediates-exploded-aar-firebase-release_1ad42a6ee25b1d0a7c96ad5a71f2a55d4e45db99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\11.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dbbba1fc0f6c51382c3fa1f9223d1f6f9144f359">
+        <dex dex="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.google.firebase-firebase-storage-11.0.2_7d738c7773ebfde49ab3a8f01f587474f715361d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.android.support-design-25.3.1_355bcc281383f27fc970f6209748412604cb2796.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.android.support-recyclerview-v7-25.3.1_3f13bef5bc63814de5991fbf1b33d4d1d6719869.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\11.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9e8c74e789b51b9da4070aeaed71bae36c3d244f">
+        <dex dex="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.google.firebase-firebase-auth-11.0.2_072c061032dceafbd936873b63bc504cd10222fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\support-annotations-25.3.1_07cc1bdab6386cc71ca9e51c0b2d242e9420314e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.android.support-animated-vector-drawable-25.3.1_6e6afec66902cdca4555ee0904aae4003501b3a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.android.support-support-vector-drawable-25.3.1_eebc7448da11ed36e6e18eb00948fecf382ac0fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tinus\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\bolts-applinks-1.4.0_5b51bba07c5a0126b015ab522f3947d80a185901.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\11.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f260cdc1a267b17b911022919f19d568e6624229">
+        <dex dex="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.google.firebase-firebase-messaging-11.0.2_9289f9b622101b5bca70df9d500f0d2e6d43055b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\exploded-aar\com.android.support\customtabs\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="807751a24cf96566fd8675517c94d8463cf364db">
+        <dex dex="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.android.support-customtabs-25.3.1_b848c609ef4cf2101855e973124bda4917ac753c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.android.support-transition-25.3.1_c5104b45f2eabcf70a1ad664aec51445703ace35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tinus\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\bolts-tasks-1.4.0_1c491d0ace3c3623016fc3195b172c7ffdcf2f52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.24.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0e0e8918eb74e3ee9e82eef6430a4359b2b577d3">
+        <dex dex="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.facebook.android-facebook-android-sdk-4.24.0_3803bf779da83ca8880911f2d8bb457d4c9c9fff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\11.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2c1d9fbe7d2f686b3dcdbc3f63a983a211401ca3">
+        <dex dex="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.google.firebase-firebase-analytics-impl-11.0.2_ed00b975fee2f8260660401be8b59043e8f131fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\11.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a5da59bfe8bee5a41daa7c26b970b12699ac8db">
+        <dex dex="C:\Dev_Angular\NativeScript Projects\MatchPoint\platforms\android\build\intermediates\pre-dexed\F0F1F2F3\debug\com.google.android.gms-play-services-appinvite-11.0.2_122d4569e6f8573a9a0d1c0b0f5593cf918cff97.jar" />
     </item>
 
 </items>

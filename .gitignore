@@ -63,6 +63,6 @@ typings/
 # Visual studio code contact
 .vscode/
 
-#Platform run 
-platforms/android/
+#Platform run (IOS/ ANDROID) 
+platforms/
 
